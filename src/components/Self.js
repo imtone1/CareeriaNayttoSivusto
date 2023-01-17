@@ -12,7 +12,7 @@ const Self = () =>{
         <Card.Body className="w3-content" style={{maxWidth: 700 }}>
         <Card.Title className="w3-center w3-padding-64"><span className="w3-tag w3-wide">Irina Tatti</span></Card.Title>
         <p>Toimin työterveyshoitajana 50% työajalla. Lisäksi opiskelen.</p>
-            <h5>Opinnot syksy 2023</h5>
+            <h5>Opinnot kevät 2023</h5>
           <ListGroup>
       <ListGroup.Item>Tradenomi (YAMK) projektijohtaminen 20 op (kokonaisuudessaan 90 op)</ListGroup.Item>
       <ListGroup.Item>kyberturvallisuuden opinnot 15 op (syventävät opinnot)</ListGroup.Item>
